@@ -7,3 +7,6 @@ ENV = os.getenv("MYENV")
 
 API_KEY = os.getenv('MOVIEAPIKEY')
 BASE_URL = os.getenv('BASEURL')
+
+DB_SECRET = os.getenv('DBSECRET')
+DB_URI = os.getenv('DBURI')
