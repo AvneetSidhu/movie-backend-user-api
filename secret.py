@@ -10,3 +10,6 @@ BASE_URL = os.getenv('BASEURL')
 
 DB_SECRET = os.getenv('DBSECRET')
 DB_URI = os.getenv('DBURI')
+
+ADMIN_USER = os.getenv('ADMINUSER')
+ADMIN_PASS = os.getenv('ADMINPASS')
