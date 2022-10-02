@@ -1,1 +1,1 @@
-worker: flask --app App.py run
+web: flask --app App.py run App:app
